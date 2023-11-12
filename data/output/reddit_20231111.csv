@@ -1,0 +1,14 @@
+id,title,score,num_comments,author,created_utc,url,over_18
+17so76t,What are the biggest obstacles/painpoints in data engineering?,52,53,snailspeed25,2023-11-11 05:57:10,https://www.reddit.com/r/dataengineering/comments/17so76t/what_are_the_biggest_obstaclespainpoints_in_data/,False
+17t0d2p,Does anyone else hate the idea of writing code for job scheduling like airflow?,25,29,RepulsiveCry8412,2023-11-11 18:23:19,https://www.reddit.com/r/dataengineering/comments/17t0d2p/does_anyone_else_hate_the_idea_of_writing_code/,False
+17sq4zz,Why pay for worse when better is free?,11,10,No-Database2068,2023-11-11 08:22:11,https://www.reddit.com/r/dataengineering/comments/17sq4zz/why_pay_for_worse_when_better_is_free/,False
+17siy7h,How often does your DWH refresh?,11,24,exact-approximate,2023-11-11 01:03:49,https://www.reddit.com/r/dataengineering/comments/17siy7h/how_often_does_your_dwh_refresh/,False
+17svlvl,Dremio vs Starburst,8,15,No_Equivalent5942,2023-11-11 14:33:02,https://www.reddit.com/r/dataengineering/comments/17svlvl/dremio_vs_starburst/,False
+17slg7x,How do you style your SQL scripts for data conversion?,5,9,imperialka,2023-11-11 03:11:04,https://www.reddit.com/r/dataengineering/comments/17slg7x/how_do_you_style_your_sql_scripts_for_data/,False
+17sz0jv,I am a Business Intelligence Developer/Engineer and looking to learn Data Engineering. Where should I start? We use the Microsoft Azure and Power Platform and SQL Server if that matters.,2,7,pikatruuu,2023-11-11 17:18:41,https://www.reddit.com/r/dataengineering/comments/17sz0jv/i_am_a_business_intelligence_developerengineer/,False
+17sxiv3,Seven Ways to Put CDC to Work,3,0,gunnarmorling,2023-11-11 16:06:01,https://www.decodable.co/blog/seven-ways-to-put-cdc-to-work,False
+17t3gfz,Load/Maintain Pattern for Conformed Dimension,3,1,PencilBoy99,2023-11-11 20:46:32,https://www.reddit.com/r/dataengineering/comments/17t3gfz/loadmaintain_pattern_for_conformed_dimension/,False
+17t4r8q,Oracle Ninjas: How should I handle SCDs? (Data Warehouse),3,2,ByteAutomator,2023-11-11 21:44:46,https://www.reddit.com/r/dataengineering/comments/17t4r8q/oracle_ninjas_how_should_i_handle_scds_data/,False
+17t4h0y,GPT-4 vision utilities to translate web page data for web browsing,1,0,asim-shrestha,2023-11-11 21:32:06,https://www.reddit.com/r/dataengineering/comments/17t4h0y/gpt4_vision_utilities_to_translate_web_page_data/,False
+17t3ryj,What do you think of quick and dirty SQLite3 solutions?,1,2,_unbanned_datum,2023-11-11 21:01:30,https://www.reddit.com/r/dataengineering/comments/17t3ryj/what_do_you_think_of_quick_and_dirty_sqlite3/,False
+17st2zb,No code etl tool,1,6,shaikh21,2023-11-11 12:07:33,https://www.reddit.com/r/dataengineering/comments/17st2zb/no_code_etl_tool/,False
