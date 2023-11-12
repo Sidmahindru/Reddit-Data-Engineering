@@ -10,7 +10,7 @@ The pipeline is designed to:
 3. Loading the raw data into an S3 bucket using Airflow. Airflow connects to an AWS S3 bucket using s3fs and stores the transformmed file in the bucket.
 4. Transform the data using AWS Glue. Using Glue Crawler to infer schema and performing SQL querys using Amazon Athena.
 5. Load the transformed data into Amazon Redshift for analytics and querying.
-
+![reddit_airflow_dag](https://github.com/Sidmahindru/Reddit-Data-Engineering/assets/106438066/f258104f-f703-408b-9c43-38196383213e)
 
 ## Architecture
 1. **Reddit API**: Source of the data.
@@ -20,4 +20,8 @@ The pipeline is designed to:
 6. **Glue Crawler**: Glue crawler was using to infer the schema of the transformed data.
 7. **Amazon Athena**: SQL-based data transformation.
 8. **Amazon Redshift**: Data warehousing and analytics. Amazon Redshift is datawarehouse on cloud.
+
+   
+![RedditDataEngineering](https://github.com/Sidmahindru/Reddit-Data-Engineering/assets/106438066/b31fccb9-dd35-44f1-8387-13926ececfe9)
+
 
