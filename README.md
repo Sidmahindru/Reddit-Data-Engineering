@@ -5,12 +5,14 @@ This project provides a comprehensive data pipeline solution to extract, transfo
 
 ## Overview
 The pipeline is designed to:
+
 1. Extract data from Reddit API using PRAW python library.
 2. Storing the Data in our local system.
 3. Loading the raw data into an S3 bucket using Airflow. Airflow connects to an AWS S3 bucket using s3fs and stores the transformmed file in the bucket.
 4. Transform the data using AWS Glue. Using Glue Crawler to infer schema and performing SQL querys using Amazon Athena.
 5. Load the transformed data into Amazon Redshift for analytics and querying.
-![reddit_airflow_dag](https://github.com/Sidmahindru/Reddit-Data-Engineering/assets/106438066/f258104f-f703-408b-9c43-38196383213e)
+![RedditDataEngineering](https://github.com/Sidmahindru/Reddit-Data-Engineering/assets/106438066/be3340eb-944a-4058-b52a-5620884da67c)
+
 
 ## Architecture
 1. **Reddit API**: Source of the data.
